@@ -1,0 +1,22 @@
+{
+  "name": "create-js",
+  "homepage": "https://github.com/akptp/create-js",
+  "authors": [
+    "GSkinner"
+  ],
+  "description": "A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "create",
+    "js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
